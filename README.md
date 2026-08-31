@@ -28,7 +28,7 @@ onde:
 - **Índice de Habitabilidade previsto: 67.00**
 
 ### Tarefa 3 — Bonus Stage
-- **Calcule o Erro Quadrático Médio (MSE) do modelo para verificar o quão "confiável" é a venda desses lotes espaciais; MSE: 338.03**
+- **Calcule o Erro Quadrático Médio (MSE) do modelo para verificar o quão "confiável" é a venda desses lotes espaciais: MSE: 338.03**
 
 ## 🛠️ Tecnologias
 - Python
