@@ -15,18 +15,18 @@ Onde:
 
 ### ✅ Tarefas
 
-#### Tarefa 1 — O Algoritmo "Raça Pura"
+### Tarefa 1 — O Algoritmo "Raça Pura"
 Implementei uma classe de Regressão Linear que:
 - Recebe dois arrays (X e Y)
 - Calcula a média de X e Y
 - Calcula os coeficientes β0 e β1
 - Possui um método prever(distancia) que retorna o índice
 
-#### Tarefa 2 — O Teste de Fogo
+### Tarefa 2 — O Teste de Fogo
 O setor de exploração descobriu o Planeta "Z-Java" a 1.1 UA.
 - **Índice de Habitabilidade previsto: 67.00**
 
-#### Tarefa 3 — Bonus Stage
+### Tarefa 3 — Bonus Stage
 Calculei o Erro Quadrático Médio (MSE) para verificar a confiabilidade do modelo.
 - **MSE: 338.03**
 
