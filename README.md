@@ -1,6 +1,10 @@
 # 🚀 Projeto — Agência Imobiliária Espacial
 
 Neste projeto, construí um modelo de Regressão Linear Simples para prever o Índice de Habitabilidade de um planeta com base em sua distância da estrela solar.
+Treinando 
+
+## 🎓 Contexto Acadêmico
+Este projeto foi desenvolvido como parte de um desafio prático da faculdade, aplicando conceitos de Regressão Linear Simples com Python e NumPy.
 
 ## 📖 Contexto
 A Terra está superlotada e a agência espacial "JavaSpace" está vendendo lotes em novos planetas. O preço de um lote é baseado em um "Índice de Habitabilidade" (0 a 100).
@@ -33,6 +37,9 @@ onde:
 ---
 
 # 🚀 Project — Space Real Estate Agency
+
+## 🎓 Academic Context
+This project was developed as part of a college practical challenge, applying Simple Linear Regression concepts with Python and NumPy.
 
 ## 📖 Context
 Earth is overcrowded and the space agency "JavaSpace" is selling lots on new planets.
