@@ -8,6 +8,8 @@ A Terra está superlotada e a agência espacial "JavaSpace" está vendendo lotes
 ## 📐 Fórmula
 y = β0 + β1x
 
+onde: 
+
 <img width="362" height="151" alt="image" src="https://github.com/user-attachments/assets/0ea01e00-ae21-4d95-ba37-270c6a99eff4" />
 
 ## ✅ Tarefas
@@ -38,6 +40,8 @@ The price of a lot is based on a "Habitability Index" (0 to 100).
 
 ## 📐 Formula
 y = β0 + β1x
+
+Where:
 
 <img width="362" height="151" alt="image" src="https://github.com/user-attachments/assets/3178460d-17f7-4584-8f40-5feb28afdfd4" />
 
